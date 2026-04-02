@@ -10,5 +10,4 @@ Client: HTML, CSS, JavaScript AJAX，mysql-connector.
 
 Server: Flask, MySQL.
 
-The website is fully validated in terms of accessibility, device adaptability, functionality and protection of customer data privacy.
  
